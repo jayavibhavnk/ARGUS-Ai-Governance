@@ -1,1 +1,1 @@
-# ARGUS
+# ARGUS - AI Governance
